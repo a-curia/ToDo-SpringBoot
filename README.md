@@ -1,0 +1,1 @@
+RESTful H2, JPA service with JUnit, Mockito, Hamcrest and EclEcma
